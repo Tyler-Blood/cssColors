@@ -1,0 +1,51 @@
+Question for the learning objective "understand what CSS Color Names are and how they are used in CSS"
+
+All modern browsers support 140 ______ names in HTML and CSS.
+  color
+  https://www.w3schools.com/colors/colors_names.asp
+
+
+This criterion is linked to a Learning Outcome Question for the learning objective "understand what Hexadecimal Colors are and how they are used in CSS"
+
+Which of the following is NOT a legitimate hexcolor code?
+
+	#ffefd5
+		This is the color papayawhip
+	#0000ff
+		This is the color blue.
+	!- #fg0000
+		This is NOT a hexcolor code because g is not a hexadecimal integer.
+	#e6e6fa
+		This is the color of lavender.
+	https://www.color-hex.com/color/ffefd5
+
+	
+
+This criterion is linked to a Learning Outcome Question for the learning objective "understand what HSL and HSLA Colors are and how they are used in CSS"
+
+The ‘a’ in HSLA stands for ______ and has to do with the _______ of the object being manipulated.
+
+	!- Alpha, opacity
+		This is correct.  The a stands for alpha and indicates(in percentages) the opacity of the object on the page.
+	Alpha, red levels
+		While the a does stand for alpha, it has nothing to do with the red levels.
+	Aqua, blue levels
+		The a does not stand for aqua or have anything to do with the colorization of the object.
+	Alpha, position on page
+		While the a does stand for alpha, it does not deal with where the object lies on the page.  Changing the position is done through things such as float and the z-index.
+	https://css-tricks.com/yay-for-hsla/
+
+
+Question for the learning objective "understand what rgb & rgba Colors are and how they are used in CSS"
+
+The ‘a’ in RGBA has to do with the _______ of the object being manipulated and stands for ______.
+
+	!- opacity, alpha
+		This is correct.  The a stands for alpha and indicates(in percentages) the opacity of the object on the page.
+	red levels, alpha 
+		While the a does stand for alpha, it has nothing to do with the red levels.
+	blue levels, aqua
+		The a does not stand for aqua or have anything to do with the colorization of the object.
+	position on page, alpha 
+		While the a does stand for alpha, it does not deal with where the object lies on the page.  Changing the position is done through things such as float and the z-index.
+	https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
